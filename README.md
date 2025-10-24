@@ -1,4 +1,4 @@
-![Original code of differently](https://gitlab.com/necrosoft/public/differently)
+[Original code of differently](https://gitlab.com/necrosoft/public/differently)
 
 ___
 
