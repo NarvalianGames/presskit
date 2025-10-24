@@ -1,4 +1,4 @@
-![differently](/uploads/4a6d24e9bae41f2467f854c2777e6a67/differently.png)
+![Original code of differently](https://gitlab.com/necrosoft/public/differently)
 
 ___
 
